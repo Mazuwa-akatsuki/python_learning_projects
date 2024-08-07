@@ -1,0 +1,35 @@
+# greeting = "hello, world!"
+# print("hello world!")
+# a = "malawi"
+# b = "usa"
+# c = "canada"
+# print(a)
+# print(b)
+# print(c)
+
+# # casting a number to a string
+
+# malawi = str(1890)
+# print(type(malawi))
+# print(malawi)
+
+# statement = "malawi was at war in" + malawi + "s"
+# print(statement)
+
+# # multiple lines
+# multiline = """
+
+# we are the first peaple to be here
+
+# where are you going to meet 
+
+#                                                              zomba, brantyre
+
+
+# """
+# print(multiline)
+
+
+greeting = "hello world"
+print("hello world")
+

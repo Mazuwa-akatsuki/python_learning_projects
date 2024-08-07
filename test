@@ -1,0 +1,29 @@
+welcome = "hello world"
+print("hello world")
+
+x = "dollar"
+y = "$1"
+print(x)
+print(y)
+
+metro = str("19bc")
+metro = type("metro")
+print("metro")
+
+statement = "malawi will be free" + "metro" + "s"
+print(statement)
+
+multiline = """
+malawi
+zambia
+kenya
+tanzania             
+                              south africa
+                              
+                              
+"""
+print(multiline)
+
+# escaping special character
+sentence = "i'm back at work!\tHey!\n\nwhere's this at\\located?"
+print(sentence)

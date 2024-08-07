@@ -1,0 +1,14 @@
+# Escaping special characters
+sentence = "I'm back at work!\tHey!\n\nwhere's this at\\located?"
+print(sentence)
+
+# string methods
+
+print("first")
+print("first.lower()")
+print("first.upper()")
+print("first")
+
+print("multiline.tittle()")
+print('multiline.replace("good", "okay")')
+print("multiline")
